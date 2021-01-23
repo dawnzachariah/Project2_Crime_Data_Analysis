@@ -2,12 +2,10 @@
 
 R Project
 
-**Title**
-
+**Title**  
 Crime Data Analysis
 
-**Problem Statement**
-
+**Problem Statement**  
 To analyse the crimes across the 28 states and 7 Union Territories of India for the year 2016 and see the crime pattern.
 
 
