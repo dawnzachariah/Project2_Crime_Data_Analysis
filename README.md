@@ -15,3 +15,4 @@ To analyse the crimes across the 28 states and 7 Union Territories of India for 
 - Found Crime Rate plots, obtained various plots & analysed them to draw inferences.
 - Built on RShiny.
 
+![alt text](https://github.com/dawnzachariah/Project2_Crime_Data_Analysis/blob/main/UI_Screenshot_Crime_Data_Analysis.jpg?raw=true)
